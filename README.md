@@ -6,7 +6,5 @@ I've worked on the electronics part of the project. Using 3 NE555 timers, three 
 
 This was my first ever electronics project and it was very interesting to learn about NE555 timers, servo motors and how to combine sensors and actuators in analog way, without using microcontrollers such as Arduino.
 
-![](Videos/HomeAloneShowcase.mp4)
-
 ![](Images/HomeAlone.jpg)
 ![](Schematics/Final.png)
